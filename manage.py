@@ -3,7 +3,8 @@
 import os
 import sys
 
-
+#username: mahfuz
+#password:password1234567
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ecommerce.settings')
